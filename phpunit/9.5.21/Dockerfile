@@ -1,6 +1,6 @@
 # PHPUnit Docker Container.
 FROM alpine:3.16
-LABEL mantainer="Rahul Prajapati <rahul.prajapati@live.in>"
+LABEL mantainer="Rahul Prajapati <rahul.prajapati@live.in>, Riddhesh Sanghvi <riddhesh237@gmail.com>"
 
 LABEL name="phpunit-9.5.21"
 
